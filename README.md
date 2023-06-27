@@ -48,6 +48,3 @@ Videe-Group-Meeting is a simple video chat application for multi-users based on 
 ## Todo 🔨🔨🔨
 
 - [x] Switch Camera options
-
-## License
-[MIT License](./LICENSE)
